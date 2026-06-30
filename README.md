@@ -44,12 +44,10 @@ detection methods still suffer from insufficient exploitation
 
 ## Dataset
 
-Due to license restrictions, we do not redistribute the original datasets.  
 Please download the datasets from their official sources.
 
 | Dataset | Description | Link |
 |---|---|---|
-| Dataset Name | Brief description | Link |
 | ATR-UMOD | A UAV-based multimodal object detection dataset for RGB-infrared object detection | [Official Repository](https://github.com/supercpy/ATR-UMOD) |
 | DroneVehicle | A drone-based RGB-infrared vehicle detection dataset | [Official Link](https://github.com/VisDrone/DroneVehicle) |
 ## Code
