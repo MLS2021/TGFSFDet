@@ -58,8 +58,8 @@ The source code and pretrained models are being organized and will be released a
 
 ```bibtex
 @article{luo2026yourmethod,
-  title={Your Paper Title},
+  title={Text-Guided Frequency-Spatial Fusion for Robust Oriented Object Detection in UAV RGB-Infrared Imagery},
   author={Luo, Zheng and others},
-  journal={},
-  year={2026}
+  year={2026},
+  note={Manuscript under review}
 }# TGFSFGet
