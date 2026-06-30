@@ -57,7 +57,7 @@ The source code and pretrained models are being organized and will be released a
 ## Citation
 
 ```bibtex
-@article{luo2026yourmethod,
+@article{luo2026TGFSFDet,
   title={Text-Guided Frequency-Spatial Fusion for Robust Oriented Object Detection in UAV RGB-Infrared Imagery},
   author={Luo, Zheng and others},
   year={2026},
