@@ -49,8 +49,9 @@ Please download the datasets from their official sources.
 
 | Dataset | Description | Link |
 |---|---|---|
-| Dataset Name | Brief description | [Official Link]([[your-link](https://github.com/VisDrone/DroneVehicle)]) |
-
+| Dataset Name | Brief description | Link |
+|---|---|---|
+| DroneVehicle | A drone-based RGB-infrared vehicle detection dataset | [Official Link](https://github.com/VisDrone/DroneVehicle) |
 ## Code
 
 The source code and pretrained models are being organized and will be released after publication.
