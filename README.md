@@ -50,7 +50,7 @@ Please download the datasets from their official sources.
 | Dataset | Description | Link |
 |---|---|---|
 | Dataset Name | Brief description | Link |
-|---|---|---|
+| ATR-UMOD | A UAV-based multimodal object detection dataset for RGB-infrared object detection | [Official Repository](https://github.com/supercpy/ATR-UMOD) |
 | DroneVehicle | A drone-based RGB-infrared vehicle detection dataset | [Official Link](https://github.com/VisDrone/DroneVehicle) |
 ## Code
 
