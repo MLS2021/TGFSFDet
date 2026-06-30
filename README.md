@@ -37,7 +37,7 @@ detection methods still suffer from insufficient exploitation
 ## Framework
 
 <p align="center">
-  <img src="figures/framework.png" width="90%">
+  <img src="figures/overall.png" width="90%">
 </p>
 
 **Figure 1.** Overall framework of the proposed method.
