@@ -1,4 +1,4 @@
-# Your Method Name
+# TGFSFDet
 
 This repository provides the project page for our paper:
 
