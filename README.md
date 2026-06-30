@@ -2,11 +2,37 @@
 
 This repository provides the project page for our paper:
 
-**"Your Paper Title Here"**
+**"Text-Guided Frequency-Spatial Fusion for Robust Oriented Object Detection in UAV RGB-Infrared Imagery"**
 
 ## Abstract
 
-Your abstract here.
+Unmanned aerial vehicle (UAV) object detection aims to 
+accurately identify and localize objects of interest 
+in complex scenarios. However, existing RGB-IR multimodal 
+detection methods still suffer from insufficient exploitation
+ of cross-modal information, missed detections of 
+ weak-texture objects, and category confusion under 
+ cluttered backgrounds. To address these issues, 
+ this paper proposes a text-guided frequency-spatial 
+ feature fusion method for RGB-IR object detection. 
+ Specifically, a dual-stream backbone network with an 
+ intermediate fusion framework is constructed to 
+ facilitate the collaborative representation of 
+ low-level detailed information and high-level 
+ semantic information. A spatial-frequency collaborative 
+ fusion module is then designed, in which the spatial and 
+ frequency branches are dynamically weighted to enhance 
+ cross-modal feature alignment and improve noise robustness 
+ in complex backgrounds. Furthermore, a text-guided module 
+ is introduced to inject category-level semantic priors 
+ into the modulation process of fusion weights, thereby 
+ improving the discriminative capability of object features 
+ and the stability of detection. Extensive experiments 
+ on the ATR-UMOD and DroneVehicle datasets demonstrate 
+ that the proposed method achieves superior detection 
+ performance compared with multiple state-of-the-art 
+ methods, validating its effectiveness and generalization 
+ capability.
 
 ## Framework
 
